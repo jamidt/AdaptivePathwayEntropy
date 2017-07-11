@@ -2,7 +2,8 @@
 
 Calculation of the pathway-, endpoint-, and conditional entropy on an
 adaptive fitness landscape. The path weight distibution is calculated
-according to 
+according to
+
 Weinreich, Daniel M., et al. "Darwinian evolution can follow only very few mutational paths to fitter proteins." science 312.5770 (2006): 111-114
 
 Be warned, this is only used for generating my numerics and not a
